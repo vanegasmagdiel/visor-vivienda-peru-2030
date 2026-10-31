@@ -1,0 +1,37 @@
+{
+  "title": "Vivienda y habitabilidad en el Perú hacia 2030 Visor y base documental",
+  "upload_type": "software",
+  "description": "Investigación independiente del Dr. Magdiel Torres Vanegas. Visor estático y compilación reproducible de nueve fuentes oficiales, 76 observaciones, siete cálculos y doce hallazgos. Incluye protocolo documental retrospectivo de línea base y plan prospectivo de ampliación. No contiene estimaciones causales ni pronósticos numéricos a 2030. Código MIT; documentación y estructura de compilación original CC BY 4.0; datos originales conservan condiciones y atribución.",
+  "creators": [
+    {
+      "name": "Torres Vanegas, Magdiel",
+      "orcid": "0000-0002-7913-214X",
+      "affiliation": "Universidad Nacional de Trujillo, Escuela de Posgrado, Unidad de Ciencias Económicas; Estudios Axial Perú E.I.R.L."
+    }
+  ],
+  "keywords": [
+    "Perú",
+    "vivienda",
+    "habitabilidad",
+    "PNVU",
+    "trazabilidad",
+    "datos abiertos",
+    "política pública"
+  ],
+  "license": "mit",
+  "version": "1.0.2",
+  "language": "spa",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/vanegasmagdiel/visor-vivienda-peru-2030",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://osf.io/kwma5/overview",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}

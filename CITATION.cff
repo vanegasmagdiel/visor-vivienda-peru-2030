@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite esta versión de la base documental y del visor."
+type: software
+title: "Vivienda y habitabilidad en el Perú hacia 2030"
+version: "1.0.2"
+date-released: "2026-10-30"
+authors:
+  - family-names: "Torres Vanegas"
+    given-names: "Magdiel"
+    orcid: "https://orcid.org/0000-0002-7913-214X"
+license: MIT
+abstract: "Base documental descriptiva y visor reproducible de necesidades habitacionales, instrumentos y seguimiento PNVU. No estima impacto causal."
+repository-code: "https://github.com/vanegasmagdiel/visor-vivienda-peru-2030"
+
+# Investigación independiente del autor.

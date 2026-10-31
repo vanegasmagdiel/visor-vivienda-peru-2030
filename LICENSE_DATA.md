@@ -1,0 +1,1 @@
+La estructura original de compilación, las narrativas y la documentación se distribuyen bajo Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/ . Esta licencia no reemplaza las condiciones ni la atribución de INEI, MVCS, MEF, CEPLAN o los autores de fuentes externas. No se redistribuyen los documentos completos de terceros.
