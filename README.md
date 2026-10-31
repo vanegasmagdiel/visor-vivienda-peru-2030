@@ -12,7 +12,7 @@ Versión 1.0.2. Evidencia hasta 2026-10-26; auditoría 2026-10-30.
 
 ## Uso
 
-Abra docs/index.html en un navegador. Funciona sin servicios externos ni conexión para la consulta; los enlaces a fuentes requieren internet. La base canónica está en docs/data/dataset.json y los CSV equivalentes. SQLite y Excel están en docs/downloads. Ejecute `python scripts/validate.py` para comprobar integridad y derivaciones. El visor conserva accesibilidad, filtros y exportación de CSV y SVG.
+El repositorio contiene la fuente completa en Vivienda_Peru_2026_Datos_Protocolo_Visor_v1_0_2.zip. Extraiga ese archivo y abra Vivienda_Peru_2026/docs/index.html en un navegador. Funciona sin servicios externos ni conexión para la consulta; los enlaces a fuentes requieren internet. La base canónica está en docs/data/dataset.json y los CSV equivalentes. SQLite y Excel están en docs/downloads. Ejecute `python scripts/validate.py` para comprobar integridad y derivaciones. El visor conserva accesibilidad, filtros y exportación de CSV y SVG.
 
 ## Trazabilidad
 
@@ -20,7 +20,7 @@ Cada observación incluye source_id, localizador, población, base, año, period
 
 ## Protocolo y archivo
 
-El protocolo documenta retrospectivamente la línea base y propone una ampliación futura. Su preparación no significa registro formal en OSF. La publicación GitHub, el archivo Zenodo y el DOI deben comprobarse en publication.json; no hay identificadores inventados. Activar la integración Zenodo antes de crear la release v1.0.2.
+El protocolo documenta retrospectivamente la línea base y propone una ampliación futura. Registro público OSF: https://doi.org/10.17605/OSF.IO/KWMA5 . La publicación GitHub, el archivo Zenodo y el DOI deben comprobarse en publication.json; no hay identificadores inventados. Activar la integración Zenodo antes de crear la release v1.0.2.
 
 ## Referencia de diseño
 
@@ -32,4 +32,4 @@ Código MIT. Documentación y compilación original CC BY 4.0. Datos y documento
 
 ## Estado de entrega
 
-Registro OSF: https://osf.io/kwma5/overview . Enviado públicamente bajo CC BY 4.0; archivado en curso al preparar esta carga. Repositorio: https://github.com/vanegasmagdiel/visor-vivienda-peru-2030 . El estado de despliegue y del archivo Zenodo se documenta en docs/publication.json.
+Visor publicado: https://vanegasmagdiel.github.io/visor-vivienda-peru-2030/ . Registro OSF público: https://doi.org/10.17605/OSF.IO/KWMA5 . Integración de Zenodo activada para este repositorio; el DOI de versión se incorporará después del archivo de la release. El despliegue utiliza permisos de lectura del repositorio y no genera commits automáticos. El estado se documenta en docs/publication.json.

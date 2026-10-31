@@ -29,8 +29,13 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://osf.io/kwma5/overview",
+      "identifier": "10.17605/OSF.IO/KWMA5",
       "relation": "isDocumentedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://vanegasmagdiel.github.io/visor-vivienda-peru-2030/",
+      "relation": "isSupplementTo",
       "scheme": "url"
     }
   ]
