@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "Cite esta versión de la base documental y del visor."
 type: software
-title: "Vivienda y habitabilidad en el Perú hacia 2030"
+title: "Vivienda y habitabilidad en el Perú hacia 2030 Visor y base documental"
 version: "1.0.2"
-date-released: "2026-10-30"
+date-released: "2026-10-31"
 authors:
   - family-names: "Torres Vanegas"
     given-names: "Magdiel"
@@ -13,3 +13,6 @@ abstract: "Base documental descriptiva y visor reproducible de necesidades habit
 repository-code: "https://github.com/vanegasmagdiel/visor-vivienda-peru-2030"
 
 # Investigación independiente del autor.
+
+doi: "10.5281/zenodo.23829470"
+url: "https://zenodo.org/records/23829470"
